@@ -249,3 +249,8 @@ printf("Decrypted text: %s
 
 <img width="1550" height="790" alt="Screenshot 2025-08-29 143446" src="https://github.com/user-attachments/assets/be6cf64d-503f-40bd-bd31-992ca0b35865" />
 
+## RESULT:
+
+The program implementing the Hill cipher for encryption and decryption has been successfully 
+executed, and the results have been verified
+
